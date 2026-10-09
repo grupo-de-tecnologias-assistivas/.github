@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img src="link_para_a_imagem_do_logo.jpg" alt="Logótipo Sonaris" width="400"/>
-</div>
+</div> -->
 
 # Sonaris - Grupo de Tecnologias Assistivas
 
